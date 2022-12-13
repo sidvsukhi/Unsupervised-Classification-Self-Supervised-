@@ -1,0 +1,6 @@
+python -m pip install -U pip
+pip install pathlib
+python -m pip install -U matplotlib
+python3 -m pip install tensorflow
+pip install tensorflow-addons
+pip install tensorflow-similarity
